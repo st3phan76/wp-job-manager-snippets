@@ -1,7 +1,7 @@
 # Snippets for WP Job Manager
 Simple snippets I use for WP Job Manager in WordPress.
 
-## PHP Snippets (coming up soon)
+## PHP Snippets
 - `Disable job promotion` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/disable-job-promotion.php)) Disables the promote-option for jobs in the dashboard.
 - `Register job shortcodes` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/register-job-shortcodes.php)) Get job-fields by job-id (GET) and register them in shortcodes like [wpjm-job-title], [wpjm-job-type] ...
 - `Enable Gutenberg` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/enable-gutenberg.php)) Removes template lock and enables Gutenberg editor for job listings.
