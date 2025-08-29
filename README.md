@@ -26,7 +26,7 @@ Enable management for jobs to editor role.
 <br>
 <br>
 
-> [!IMPORTANT]
+> [!IMPORTANT Advice]
 > No code is perfect. Should you spot a bug, please report it here via Github.
 >
 > If you have suggestions for features or how certain code works, I'd love to hear your feedback. However, I can't guarantee their implementation.
