@@ -8,19 +8,19 @@ Simple snippets I use for WP Job Manager in WordPress.
 - `Disable job promotion` ([PHP](disable-job-promotion.php)) \
 Disables the promote-option for jobs in the dashboard.
 
-- `Register job shortcodes` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/register-job-shortcodes.php)) \
+- `Register job shortcodes` ([PHP](register-job-shortcodes.php)) \
 Get job-fields by job-id (GET) and register them in shortcodes like [wpjm-job-title], [wpjm-job-type] ...
 
-- `Enable Gutenberg` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/enable-gutenberg.php)) \
+- `Enable Gutenberg` ([PHP](enable-gutenberg.php)) \
 Removes template lock and enables Gutenberg editor for job listings.
 
-- `Remove admin fields` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/remove-admin-fields.php)) \
+- `Remove admin fields` ([PHP](remove-admin-fields.php)) \
 Removes admin fields from jobs.
 
-- `application default value` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/application-default-value.php)) \
+- `application default value` ([PHP](application-default-value.php)) \
 Set up default value for application redirect (url).
 
-- `enable jobs for editor role` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/enable-jobs-for-editor-role.php)) \
+- `enable jobs for editor role` ([PHP](enable-jobs-for-editor-role.php)) \
 Enable management for jobs to editor role.
 
 <br>
