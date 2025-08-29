@@ -10,8 +10,13 @@ Disables the promote-option for jobs in the dashboard.
 - `application default value` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/application-default-value.php)) Set up default value for application redirect (url).
 - `enable jobs for editor role` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/enable-jobs-for-editor-role.php)) Enable management for jobs to editor role.
 
-## Bugs & Feedback
-No code is perfect. Should you spot a bug, please report it here via Github.
+/
+/
+/
+/
+
+> [!IMPORTANT]
+> No code is perfect. Should you spot a bug, please report it here via Github.
 
 If you have suggestions for features or how certain code works, I'd love to hear your feedback. However, I can't guarantee their implementation.
 
