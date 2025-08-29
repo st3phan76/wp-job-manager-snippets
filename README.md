@@ -24,7 +24,7 @@ Set up default value for application redirect (url).
 Enable management for jobs to editor role.
 
 <br>
-<br>  
+<br>
 
 > [!IMPORTANT]
 > No code is perfect. Should you spot a bug, please report it here via Github.
