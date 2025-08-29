@@ -1,6 +1,9 @@
 # Snippets for WP Job Manager
 Simple snippets I use for WP Job Manager in WordPress.
 
+  
+  
+
 ## Snippets
 - `Disable job promotion` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/disable-job-promotion.php)) \
 Disables the promote-option for jobs in the dashboard.
@@ -20,10 +23,10 @@ Set up default value for application redirect (url).
 - `enable jobs for editor role` ([PHP](https://github.com/st3phan76/wp-job-manager-snippets/blob/main/enable-jobs-for-editor-role.php)) \
 Enable management for jobs to editor role.
 
-\
-\
-\
-\
+  
+  
+  
+  
 
 > [!IMPORTANT]
 > No code is perfect. Should you spot a bug, please report it here via Github.
