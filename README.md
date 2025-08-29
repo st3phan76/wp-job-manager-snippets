@@ -31,8 +31,9 @@ Enable management for jobs to editor role.
 >
 > If you have suggestions for features or how certain code works, I'd love to hear your feedback. However, I can't guarantee their implementation.
 
+> [!NOTE]
+> **Useful links**
+> [Wordpress](https://wordpress.org/)
+> [WP Job Manager — plugin site](https://wordpress.org/plugins/wp-job-manager/)
+> [WP Job Manager — website](https://wpjobmanager.com/)
 
-## Useful Links
-- [Wordpress](https://wordpress.org/)
-- [WP Job Manager — plugin site](https://wordpress.org/plugins/wp-job-manager/)
-- [WP Job Manager — website](https://wpjobmanager.com/)
